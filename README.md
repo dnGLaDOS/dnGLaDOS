@@ -16,7 +16,7 @@ Tested in Leaflet 0.7.x and 1.3.x
 
 ![Image](https://raw.githubusercontent.com/stefanocudini/LiquidCrystal_I2C/master/images/LiquidCrystal_I2C.jpg)
 
-# LiquidCrystal_I2C
+# dnGLaDOS
 
 **Demo:**
 [opengeo.tech/maps/LiquidCrystal_I2C](https://opengeo.tech/maps/LiquidCrystal_I2C/)
