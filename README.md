@@ -1,7 +1,7 @@
 Leaflet Control Search
 ============
 
-[![npm version](https://badge.fury.io/js/leaflet-search.svg)](http://badge.fury.io/js/leaflet-search)
+[![npm version](https://badge.fury.io/js/LiquidCrystal_I2C.svg)](http://badge.fury.io/js/LiquidCrystal_I2C)
 
 A Leaflet control that search markers/features location by custom property.<br />
 Support ajax/jsonp autocompletion and JSON data filter/remapping.
@@ -14,20 +14,20 @@ If this project helped your work help me to keep this alive by [Paypal **DONATIO
 
 Tested in Leaflet 0.7.x and 1.3.x
 
-![Image](https://raw.githubusercontent.com/stefanocudini/leaflet-search/master/images/leaflet-search.jpg)
+![Image](https://raw.githubusercontent.com/stefanocudini/LiquidCrystal_I2C/master/images/LiquidCrystal_I2C.jpg)
 
-# Where
+# LiquidCrystal_I2C
 
 **Demo:**
-[opengeo.tech/maps/leaflet-search](https://opengeo.tech/maps/leaflet-search/)
+[opengeo.tech/maps/LiquidCrystal_I2C](https://opengeo.tech/maps/LiquidCrystal_I2C/)
 
 **Source code:**
-[Github](https://github.com/stefanocudini/leaflet-search)
-[NPM](https://npmjs.org/package/leaflet-search)
+[Github](https://github.com/stefanocudini/LiquidCrystal_I2C)
+[NPM](https://npmjs.org/package/LiquidCrystal_I2C)
 
 # Install
 ```
-npm install --save leaflet-search
+npm install --save LiquidCrystal_I2C
 ```
 # Options
 | Option	  | Default  | Description                       |
@@ -82,7 +82,7 @@ npm install --save leaflet-search
 
 
 # Examples
-(require src/leaflet-search.css)
+(require src/LiquidCrystal_I2C.css)
 
 Adding the search control to the map:
 ```javascript
@@ -134,7 +134,7 @@ This list is intended to be of utility for all developers who are looking web ma
 * [Folium](https://github.com/python-visualization/folium)
 * [OpenTopoMap](https://opentopomap.org/)
 * [Falesia.it](https://www.falesia.it/it/map/169729/260158/2/FAL/title=Mondo.html)
-* [Leaflet Control Search (Official demos)](https://opengeo.tech/maps/leaflet-search/)
+* [Leaflet Control Search (Official demos)](https://opengeo.tech/maps/LiquidCrystal_I2C/)
 * [Parkowanie Gliwice](http://parkowaniegliwice.pl/lista-parkomatow/)
 * [Agenziauscite.Openstreetmap.it](http://agenziauscite.openstreetmap.it/compare.html)
 * [Modern Leaflet Toolbar](https://getbounds.com/blog/a-modern-leaflet-toolbar/)
